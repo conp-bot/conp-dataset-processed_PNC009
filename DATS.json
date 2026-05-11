@@ -6,7 +6,7 @@
         }
     ],
     "description": "",
-    "version": "2024-08-06T17:36:33.428888",
+    "version": "2025-03-31T21:43:21.002161",
     "licenses": [
         {
             "name": "CC0 1.0 Universal"
@@ -20,7 +20,7 @@
             }
         },
         {
-            "date": "2024-08-06 17:36:33",
+            "date": "2025-03-31T21:43:21.002161",
             "type": {
                 "value": "date modified"
             }
@@ -33,7 +33,7 @@
     ],
     "distributions": [
         {
-            "size": 37.4,
+            "size": 34.81,
             "unit": {
                 "value": "GB"
             },
@@ -44,7 +44,10 @@
                         "value": "public"
                     }
                 ]
-            }
+            },
+            "formats": [
+                "N/A"
+            ]
         }
     ],
     "extraProperties": [
@@ -63,11 +66,45 @@
                     "value": "12"
                 }
             ]
+        },
+        {
+            "category": "source",
+            "values": [
+                {
+                    "value": "osf"
+                }
+            ]
+        },
+        {
+            "category": "osf_node_id",
+            "values": [
+                {
+                    "value": "6g5te"
+                }
+            ]
+        },
+        {
+            "category": "subjects",
+            "values": [
+                {
+                    "value": "N/A"
+                }
+            ]
+        },
+        {
+            "category": "CONP_status",
+            "values": [
+                {
+                    "value": "CONP"
+                }
+            ]
         }
     ],
     "types": [
         {
-            "value": "unknown"
+            "information": {
+                "value": "dataset"
+            }
         }
     ]
 }
